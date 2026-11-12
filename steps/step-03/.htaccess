@@ -1,0 +1,6 @@
+# Any address that is not a real file or folder shows the site's own Not found page (404.php).
+# Needs mod_rewrite, which XAMPP turns on by default.
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ 404.php [L]
