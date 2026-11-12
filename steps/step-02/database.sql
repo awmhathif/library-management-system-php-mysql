@@ -1,11 +1,11 @@
--- Campus Library: tables and demo data. Import this file once (see the guide, Start and step 1).
+-- Library Management System: tables and demo data. Import this file once (see the guide, Start and step 1).
 -- Every account has the password: password123
 -- Dates in the demo data are counted back from the day you import, so the demo is always up to date.
 
 SET NAMES utf8mb4;   -- read this file as UTF-8, so Sinhala and Tamil titles are saved correctly by any import tool
-DROP DATABASE IF EXISTS campus_library;
-CREATE DATABASE campus_library CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE campus_library;
+DROP DATABASE IF EXISTS library_management;
+CREATE DATABASE library_management CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE library_management;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,

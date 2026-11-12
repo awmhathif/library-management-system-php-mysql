@@ -11,13 +11,13 @@ $page = basename($_SERVER['SCRIPT_NAME']);
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title><?= e($title ?? 'Campus Library') ?> | Campus Library</title>
+<title><?= e($title ?? 'Library Management System') ?> | Library Management System</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="top">
   <div class="wrap topin">
-    <a class="brand" href="index.php"><span class="mark" aria-hidden="true"></span>Campus Library</a>
+    <a class="brand" href="index.php"><span class="mark" aria-hidden="true"></span>Library Management System</a>
     <nav>
     </nav>
     <div class="who">

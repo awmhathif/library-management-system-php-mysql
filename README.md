@@ -1,4 +1,4 @@
-# Campus Library System in PHP and MySQL: free starter
+# Library Management System in PHP and MySQL: free starter
 
 A web system that runs a college library. Members search the catalogue, place a hold on a book that is out and join a fair queue, renew their loans and see what they owe. Librarians check books out and in at one desk page, see what needs doing on a Today page, collect or waive fines, and read monthly reports.
 
@@ -13,9 +13,9 @@ This repository is the **free starter** of a step by step coursework kit. It is 
 | [guides/common-errors.html](guides/common-errors.html) | The real XAMPP, PHP and MySQL errors and how to fix them |
 | [viva-sample.html](viva-sample.html) | 10 viva questions with answers and a practice mode |
 
-Read the guide online: https://awmhathif.github.io/campus-library-system-php-mysql/START-HERE.html
+Read the guide online: https://awmhathif.github.io/library-management-system-php-mysql/START-HERE.html
 
-Try the 10 sample viva questions and the practice mode online: https://awmhathif.github.io/campus-library-system-php-mysql/viva-sample.html
+Try the 10 sample viva questions and the practice mode online: https://awmhathif.github.io/library-management-system-php-mysql/viva-sample.html
 
 ## How to start
 
@@ -35,7 +35,7 @@ The full kit continues from step 4 to step 11 in the same style (check out, retu
 - the viva guide: 58 questions with answers, a demo plan, live change requests and a practice mode
 - guides to change the colours, add your own features and write progress reports
 
-Get it on Gumroad: https://awmhathif.gumroad.com/l/campus-library-system
+Get it on Gumroad: https://awmhathif.gumroad.com/l/library-management-system
 
 ## Please note
 

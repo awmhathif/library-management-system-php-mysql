@@ -2,7 +2,7 @@
 // includes/config.php - the only file you change to set up the system.
 
 // Database (XAMPP defaults: user root, no password)
-define('DB_DSN', 'mysql:host=127.0.0.1;dbname=campus_library;charset=utf8mb4');
+define('DB_DSN', 'mysql:host=127.0.0.1;dbname=library_management;charset=utf8mb4');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
